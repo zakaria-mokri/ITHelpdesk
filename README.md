@@ -37,6 +37,25 @@ The full platform includes:
 - Microsoft Entra ID
 - Recharts
 
+
+## 🎥 Video Demos
+
+### User Dashboard
+Experience the end-user workflow for creating requests, tracking ticket progress, reviewing responses, accessing the knowledge base, and managing personal preferences.
+
+[![User Dashboard Demo](https://img.youtube.com/vi/Ejrn7HZpONM/maxresdefault.jpg)](https://youtu.be/Ejrn7HZpONM)
+
+### Admin Dashboard
+Explore the full administrative experience, including user management, role and permission control, asset management, automation, audit logs, reporting, and system configuration.
+
+[![Admin Dashboard Demo](https://img.youtube.com/vi/mQgBK4DcsiA/maxresdefault.jpg)](https://youtu.be/mQgBK4DcsiA)
+
+### Manager Dashboard
+See how managers monitor workloads, review approvals, manage ticket activity, access reports, and use advanced analytics to understand service performance.
+
+[![Manager Dashboard Demo](https://img.youtube.com/vi/cHnWLPJ4q0M/maxresdefault.jpg)](https://youtu.be/cHnWLPJ4q0M)
+
+
 ## Product Screenshots
 
 ### Login
