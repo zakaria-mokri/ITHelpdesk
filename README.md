@@ -37,13 +37,54 @@ The full platform includes:
 - Microsoft Entra ID
 - Recharts
 
+## Product Screenshots
+
+### Login
+![Login](docs/screenshots/01-login.png)
+
+### User Experience
+![Create Ticket](docs/screenshots/02-user-create-ticket.png)
+
+![Active Tickets](docs/screenshots/03-user-active-tickets.png)
+
+![Ticket Details](docs/screenshots/04-user-ticket-details.png)
+
+### Knowledge Base
+![Knowledge Base](docs/screenshots/07-user-knowledge-base.png)
+
+### Manager Operations
+![Workload Monitoring](docs/screenshots/16-workload-monitoring.png)
+
+![Approval Inbox](docs/screenshots/17-approval-inbox.png)
+
+![Ticket Management](docs/screenshots/18-manager-ticket-queue.png)
+
+### Analytics & Reporting
+![Advanced Analytics](docs/screenshots/20-advanced-analytics.png)
+
+![Service Satisfaction](docs/screenshots/23-service-satisfaction-report.png)
+
+### Administration
+![User Management](docs/screenshots/22-user-management.png)
+
+![Asset Management](docs/screenshots/24-asset-management.png)
+
+![Automation](docs/screenshots/26-automation.png)
+
+![Knowledge Administration](docs/screenshots/27-knowledge-administration.png)
+
+![Audit Logs](docs/screenshots/28-audit-logs.png)
+
+![System Configuration](docs/screenshots/29-system-configuration.png)
+
+### Multilingual Interface
+![German Interface](docs/screenshots/30-multilingual-german.png)
+
 ## Showcase Notice
 
 This repository contains selected code samples only.
 
 The complete production source code, production configuration, credentials, customer data, and operational infrastructure are not included.
-
-Screenshots and product demonstrations will be added separately.
 
 ## Author
 
